@@ -13,7 +13,7 @@ model:
   num_query_token: 32
 
   # Vicuna
-  llama_model: "/mnt/workspace/vicuna/"
+  llama_model: "/root/vicuna/"
 
   # generation configs
   prompt: ""
